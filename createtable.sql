@@ -1,0 +1,1 @@
+CREATE TABLE estudiantes(nombre varchar(30), rut int primary key, curso varchar(30), nivel INT);
